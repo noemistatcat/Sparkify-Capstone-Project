@@ -1,4 +1,4 @@
-# Recommendations with IBM
+# Sparkify Churn Prediction
 
 ## Table of Contents
 1. [Description](#description)
