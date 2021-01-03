@@ -5,7 +5,7 @@
 2. [Getting Started](#getting_started)
 	1. [Dependencies](#dependencies)
 	2. [Installing](#installing)
-	3. [Executing Program](#executing)
+	3. [Analysis and Results](#executing)
 3. [Authors](#authors)
 4. [Acknowledgement](#acknowledgement)
 
@@ -16,11 +16,11 @@ The goal for this project is to predict customer churn for Sparkify, a fictitiou
 
 The following steps were undertaken:
 
-Data Cleaning and Wrangling
-Data Exploration
-Data Visualization
-Feature Engineering
-Predictive Modeling
+* Data Cleaning and Wrangling
+* Data Exploration
+* Data Visualization
+* Feature Engineering
+* Predictive Modeling
 
 This project is in partial fulfillment of the Udacity Data Science Nanodegree Course requirements. 
 
@@ -40,8 +40,11 @@ No special installation steps required.
 
 <a name="executing"></a>
 
-### Executing Program:
-All the analysis can be found in the jupyter notebook named Sparkify.ipynb.
+### Analysis and Results:
+All the data exploration and detailed analysis can be found in the jupyter notebook named Sparkify.ipynb.
+
+The article is published in Medium through this and can be accessed through this [link](https://noemiramiro.medium.com/predicting-subscription-churn-using-pyspark-ml-b6e265c8d72f)
+
 
 <a name="authors"></a>
 ## Authors
@@ -50,4 +53,4 @@ All the analysis can be found in the jupyter notebook named Sparkify.ipynb.
 
 ## Acknowledgements
 
-I thank [Udacity](https://www.udacity.com/) for providing this challenge and learning experience.
+I thank [Udacity](https://www.udacity.com/) for giving me an opportunity to publish this analysis.
