@@ -12,7 +12,7 @@
 <a name="descripton"></a>
 ## Description
 
-The goal for this project is to predict customer churn for Sparkify, a fictitious digital music subscription service. 
+The main goal for this project is to predict customer churn for Sparkify, a fictitious digital music subscription service. 
 
 The following steps were undertaken:
 
@@ -34,6 +34,8 @@ This project is in partial fulfillment of the Udacity Data Science Nanodegree Co
 * Data Visualization: Matplotlib, Seaborn
 * Modeling: PySpark ML
 
+IBM Cloud Lite was used to run the analysis and modeling for faster and more efficient Pyspark implementation.
+
 <a name="installing"></a>
 ### Installing
 No special installation steps required.
@@ -43,7 +45,7 @@ No special installation steps required.
 ### Analysis and Results:
 All the data exploration and detailed analysis can be found in the jupyter notebook named Sparkify.ipynb.
 
-The article is published in Medium through this and can be accessed through this [link](https://noemiramiro.medium.com/predicting-subscription-churn-using-pyspark-ml-b6e265c8d72f)
+The article is published in Medium and can be accessed through this [link](https://noemiramiro.medium.com/predicting-subscription-churn-using-pyspark-ml-b6e265c8d72f)
 
 
 <a name="authors"></a>
