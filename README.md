@@ -43,7 +43,9 @@ No special installation steps required.
 <a name="executing"></a>
 
 ### Analysis and Results:
-All the data exploration and detailed analysis can be found in the jupyter notebook named Sparkify.ipynb.
+All the data exploration can be found in the jupyter notebook named Sparkify.ipynb.
+
+The model training and evaluation can be found in the jupyter notebook named Sparkify - Model Training.ipynb.
 
 The article is published in Medium and can be accessed through this [link](https://noemiramiro.medium.com/predicting-subscription-churn-using-pyspark-ml-b6e265c8d72f)
 
