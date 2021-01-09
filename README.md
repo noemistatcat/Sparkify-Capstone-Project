@@ -43,7 +43,7 @@ No special installation steps required.
 <a name="executing"></a>
 
 ### Analysis and Results:
-All the data exploration can be found in the jupyter notebook named Sparkify.ipynb.
+All the data exploration can be found in the jupyter notebook named Sparkify - Main Notebook.ipynb.
 
 The model training and evaluation can be found in the jupyter notebook named Sparkify - Model Training.ipynb.
 
